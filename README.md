@@ -1,5 +1,5 @@
 ### Hi there 👋
- ![counter](https://osamamosaad.m.pipedream.net)
+
 <!--
 **osamamosaad/osamamosaad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
