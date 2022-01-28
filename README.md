@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 ![Golang](https://img.shields.io/badge/Golang-%2300ADD8.svg?style=flat-square&logo=Go&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-gray?style=flat-square&logo=mysql)
 ![Redis](https://img.shields.io/badge/-Redis-gray?style=flat-square&logo=Redis)
-![Laravel](https://img.shields.io/badge/-Laravel-white?style=flat-square&logo=laravel)
-![Codeigniter](https://img.shields.io/badge/Codeigniter-ffffff?style=flat-square&logo=codeigniter&logoColor=#DD4814)
+![Laravel](https://img.shields.io/badge/-Laravel-eee?style=flat-square&logo=laravel)
+![Codeigniter](https://img.shields.io/badge/Codeigniter-eee?style=flat-square&logo=codeigniter&logoColor=#DD4814)
 ![Linux](https://img.shields.io/badge/-Linux-gray?style=flat-square&logo=linux)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=osamamosaad&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=osamamosaad&count_private=true&show_icons=true&include_all_commits=true&theme=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osamamosaad&hide=TeX&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osamamosaad&hide=TeX&layout=compact&theme=white)
 
 [![Visits Badge](https://badges.pufler.dev/visits/osamamosaad/osamamosaad)](https://badges.pufler.dev)
