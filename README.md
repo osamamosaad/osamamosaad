@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m self-taught software engineer, working for @BasharSoft the company that behind @WUZZUF & @FORASNA
+- 🔭 I’m self-taught software engineer, working for @Breadfast EX.WUZZUF
 - 🌱 I’m currently learning golang, distributed system and Kubernetes
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/osamamosaad/)
 
